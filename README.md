@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://imgur.com/a/ia5S9fh"  />
+  <blockquote class="imgur-embed-pub" lang="en" data-id="LztoUnu"><a href="https://imgur.com/LztoUnu">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
 ###
